@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project demonstrates the implementation of socket programming in C++ to achieve file transfer between a client and a server. It was developed as part of my PhD research, showcasing my deep understanding of networking concepts and practical application.
+This project demonstrates the implementation of socket programming in C++ to achieve file transfer between a client and a server. It was developed as part of my PhD interview, showcasing my deep understanding of networking concepts and practical application.
 
 ## Key Features
 
